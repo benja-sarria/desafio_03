@@ -65,6 +65,16 @@ const initializeDB = async () => {
 // Inicializamos la Base de Datos
 initializeDB();
 
+app.get("/", (req, res) => {
+    res.json({
+        message: "Bienvenidos al desafío nº 3",
+        searchAllProducts:
+            "Para buscar todos los productos dirígete a /products",
+        searchRandomProduct:
+            "Para buscar un producto aleatorio dirígete a /randomProduct",
+    });
+});
+
 // GET ALL PRODUCTS
 app.get("/products", (req, res) => {
     const productArray = require("./products.json");
