@@ -1,0 +1,44 @@
+[
+    {
+        "name": "Bicicleta",
+        "price": 20000,
+        "thumbnail": "url://someUrl.com/fakeUrl.jpg",
+        "id": 1
+    },
+    {
+        "name": "Remera Azul",
+        "price": 5000,
+        "thumbnail": "url://someUrl.com/fakeUrl.jpg",
+        "id": 2
+    },
+    {
+        "name": "Zapatillas",
+        "price": 35000,
+        "thumbnail": "url://someUrl.com/fakeUrl.jpg",
+        "id": 3
+    },
+    {
+        "name": "Botas de Nieve",
+        "price": 40000,
+        "thumbnail": "url://someUrl.com/fakeUrl.jpg",
+        "id": 4
+    },
+    {
+        "name": "Campera",
+        "price": 18000,
+        "thumbnail": "url://someUrl.com/fakeUrl.jpg",
+        "id": 5
+    },
+    {
+        "name": "Remera Blanca",
+        "price": 4500,
+        "thumbnail": "url://someUrl.com/fakeUrl.jpg",
+        "id": 6
+    },
+    {
+        "name": "Buzo con capucha",
+        "price": 12000,
+        "thumbnail": "url://someUrl.com/fakeUrl.jpg",
+        "id": 7
+    }
+]
